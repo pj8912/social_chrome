@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "SocialBrandLinks",
+  "version": "1.0",
+  "description": "Social Media websites and brand Links",
+  
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "tabs"]
+
+
+}
+
